@@ -1,0 +1,6 @@
+admin_vk_id = '32707600'
+antigate_key = '12345abcdef12345abcdef'
+username = 'vk_username'
+password = 'vk_password'
+rucaptcha_key = 'abcdef12345abcdef12345'
+vk_my_group = 'https://vk.com/buzovaofficial'
